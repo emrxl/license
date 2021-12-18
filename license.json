@@ -1,5 +1,7 @@
-[
-  "saas",
-  "keslan",
-  "susknk"
-]
+{
+  "ip" = [
+    "saas",
+    "keslan",
+    "susknk"
+  ]
+}
